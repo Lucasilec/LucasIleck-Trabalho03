@@ -1,0 +1,9 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\bin\Debug\Trabalho03.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\bin\Debug\Trabalho03.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\bin\Debug\Trabalho03.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\obj\Debug\Trabalho03.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\obj\Debug\Trabalho03.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\obj\Debug\Trabalho03.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\obj\Debug\Trabalho03.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\bin\Debug\Jogadores.mdf
+C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\bin\Debug\Jogadores_log.ldf
