@@ -5,5 +5,5 @@ C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Traba
 C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\obj\Debug\Trabalho03.csproj.CoreCompileInputs.cache
 C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\obj\Debug\Trabalho03.exe
 C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\obj\Debug\Trabalho03.pdb
-C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\bin\Debug\Jogadores.mdf
-C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\bin\Debug\Jogadores_log.ldf
+C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\bin\Debug\Database1.mdf
+C:\Users\lucas\OneDrive\Área de Trabalho\LucasIleck-Trabalho03\LucasIleck-Trabalho03\Trabalho03\bin\Debug\Database1_log.ldf

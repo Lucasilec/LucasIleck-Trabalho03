@@ -105,11 +105,13 @@ namespace Trabalho03.Entity
         }
         public void MostrarMatriz()
         {
+            
             for (int i = 0; i < Matriz.Length; i++)
             {
                 for (int j = 0; j < Matriz[i].Length; j++)
                 {
                     Console.Write("|{0}|", Matriz[i][j]);
+                    
                 }
                 Console.WriteLine();
             }
@@ -118,7 +120,6 @@ namespace Trabalho03.Entity
         {
             GerarTabuleiro();
             GerarLetras();
-            MostrarMatriz();
         }
         public int Jogar(string palavra)
         {          
@@ -198,6 +199,7 @@ namespace Trabalho03.Entity
                 }
                 a++;
             }
+            Console.WriteLine("PALAVRAS ESCONTRADAS: {0}", PalavarsEncontradada);
             return PalavarsEncontradada / 2;
             
         }
